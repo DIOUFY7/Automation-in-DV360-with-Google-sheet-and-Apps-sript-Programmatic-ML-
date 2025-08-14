@@ -9,5 +9,5 @@ Internship at GroupM
 
 I developed a automation tool for Brandsafety in Dv360 with Google cloud, Apps script and Google sheet.
 
-I did also data analyst and maked ML models for programmatic.
+I did also data analyst and maked ML models for programmatic to predict impressions.
 
